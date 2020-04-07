@@ -1,6 +1,4 @@
-# ARCOSG
-Annotated Corpus of Scottish Gaelic
-Version History
+# ARCOSG Version History
 
 1.0 Initial Release
 25.05.2016
