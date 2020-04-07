@@ -1,0 +1,170 @@
+[3]/Xsc feumaidh/V-f
+gum/Qa faca/V-s--d e/Pp3sm na/Tdpm pàipearan/Ncpmn aca/Pr3p co-dhiubh/Rg
+chan/Qn eil/V-p--d fhios/Ncsmn
+dè/Uq tha/V-p iad/Pp3p a'/Sa dol/Nv a/Ug dhèanamh/Nv eadar/Sp market/Xfe gardens/Xfe
+is/Cc dè/Uq na/Q-r thug/V-s [Name]/Nn a-staigh/Rs
+[5]/Xsc cò/Uq tha/V-p '/Sa dol/Nv a/Ug dhèanamh/Nv sin/Pd ?/Fg
+[3]/Xsc [Name]/Nn
+[1]/Xsc Uiread/Ncsmn 's/Cc a/Q-r faigheadh/V-h tu/Pp2s an/Sp [Placename]/Nt
+[4]/Xsc Cha/Qn do/Q--s rùisg/V-s e/Pp3sm gin/Ncsfn dhe/Sp na/Tdpf caoraich/Ncpfd am_bliadhna/Rt fhathast/Rt
+[2]/Xsc sin/Pd agad/Pr2s am/Tdsm plan/Ncsmn
+a/Q-r bh'/V-s aige/Pr3sm
+[3]/Xsc sewers/Xfe aca/Pr3p a'/Sa dol/Nv a-mach/Rs chun/Sp a'/Tdsmg chuain/Ncsmg an_sineach/Rs fad/Ncsmn seachd/Mc uairean/Ncpfg
+[2]/Xsc sin/Pd am/Tdsm plan/Ncsmn
+a/Q-r bh'/V-s aig/Sp an/Tdsf fheadhainn/Ncsfd
+a/Q-r fhuair/V-s a’/Tdsf chroit/Ncsfn aig/Sp [Placename]/Nt
+cha/Qn do/Q--s rinn/V-s iad/Pp3p dad/Ncsmn
+[5]/Xsc ach/Cc 's/Wp-i e/Pp3sm [Name]/Nn-mn an/Tdsm gille/Ncsmn tha/V-p seo/Pd ge-tà/Rg
+[2]/Xsc dè/Uq ?/Fg
+[3]/Xsc tha/V-p seo/Pd air/Sp a'/Tds form/Xfe aige/Pr3sm
+[5]/Xsc och/I uill/I cà/Uq bheil/V-p--d e/Pp3sm ma-thà/Rg ?/Fg
+[4]/Xsc och/I uill/I ag/Sa obair/Nv air/Sp a'/Tds fish/Xfe farm/Xfe
+a/Q-r tha/V-p esan/Pp3sm-e taobh/Ncsmn [Placename]/Nt
+[2]/Xsc fish/Xfe farming/Xfe àidh/I
+[4]/Xsc ach/Cc bha/V-s esan/Pp3sm-e cha/Qn chreid/V-f--d mi/Pp1s gleusda/Ap gu/Ua leòr/Rg
+[3]/Xsc och/I thà/V-p
+'s/Wp-i e/Pp3sm Dadaidh/Nn-mn
+a/Q-r dhèanadh/V-h a'/Tds form/Xfe suas/Rg e/Pp3sm fhèin/Px 's/Cc a’/Tdsf chailleach/Ncsfn
+tha/V-p mi/Pp1s a'/Sa creidsinn/Nv
+[1]/Xsc ò/I dè/Uq an/Tdsm diofar/Ncsmn 
+dè/Uq tha/V-p iad/Pp3p a'/Sa dol/Nv a/Ug dhèanamh/Nv
+chan/Qn eil/V-p--d aon/Mc duine/Ncsmn 'san/Spa-s dùthaich/Ncsfd tha/V-p seothach/Pd ag/Sa àiteach/Nv talamh/Ncsmg co-dhiubh/Rg
+[5]/Xsc duine/Ncsmn aca/Pr3p an/Tdsf fheadhainn/Ncsfn aig/Sp a/Q-r bheil/V-p--d iad/Dp3p [?]/Xx 
+[2]/Xsc chan/Qn eil/V-p--d
+[5]/Xsc co-dhiubh/Rg a'/Sa cumail/Nv chroitean/Ncpfg ann/Pr3sm 
+[4]/Xsc mar/Cs gum/Qa biodh/V-h--d ged/Cs nach/Qnr dèanadh/V-h--d e/Pp3sm car/Ncsmn orra/Pr3p
+dè/Uq thathas/V-p0 a'/Sa dèanamh/Nv orra/Pr3p co-dhiubh/Rg
+cuin/Uq a/Q-r
+[5]/Xsc sin/Pd a'/Tdsm rud/Ncsmn
+[2]/Xsc dè/Uq tha/V-p duine/Ncsmn sam_bith/Aq a'/Sa dèanamh/Nv orra/Pr3p 
+croitean/Ncpfn beaga/Aq-pfn luideach/Aq-pfn
+a/Q-r tha/V-p thall/Rs a-sin/Rs co-dhiubh/Rg beagan/Ncsmn chaoiraich/Ncpfg
+[4]/Xsc bha/V-s mi/Pp1s a'/Sa coimhead/Nv an/Tdsm latha/Ncsmn reimhe/Pr3sm orra/Pr3p
+nuair/Cs a/Q-r bha/V-s mi/Pp1s a'/Sa tighinn/Nv a-nuas/Rs an/Tds causeway/Xfe ann_a_shin/Rs
+'s/Cc bha/V-s mi/Pp1s
+a’/Tdsf phàirce/Ncsfn bha/V-s shìos/Rs aig/Sp taigh/Ncsmd a’/Tdsmg Chùpair/Nn-mg 's/Cc an/Tdsm cladach/Ncsmn sìos/Rs
+tha/V-p cuimhn'/Ncsfn a'm/Pr1s uaireigin/Rt
+fhuair/V-s mi/Pp1s fhèin/Px leis/Sp an/Tds tractor/Xfe 's/Cc leis/Sp a'/Tds mhower/Xfe dhaibh/Pr3p aig/Sp a-sin/Rs
+[1]/Xsc aig/Sp a’/Tdsm Chùpair/Nn-mg ?/Fg
+[4]/Xsc àidh/I e/Pp3sm ag/Sa obair/Nv aig/Sp [?]/Xx e/Pp3sm fhèin/Px
+[1]/Xsc àidh/I fhuair/V-s mise/Pp1s--e iad/Pp3p sin/Dd uileag/Rg cuideachd/Rg dà/Mc bhliadhna/Ncsfn
+tha/V-p tòrr/Ncsmn area/Xfe ann/Pr3sm
+[4]/Xsc tha/V-p fearann/Ncsmn math/Aq-smn ann/Pr3sm
+[1]/Xsc bhà/V-s agus/Cc feur/Ncsmn math/Aq-smn
+[4]/Xsc bhà/V-s 
+[2]/Xsc agus/Cc ciamar/Uq a/Q-r tha/V-p daoine/Ncpmn a'/Sa faighinn/Nv ùine/Ncsfg air/Sp treobhadh/Ncsmn a/Ug dhèanamh/Nv
+'s/Cc iad/Pp3p ag/Sa obair/Nv fad/Ncsmn an/Tdsmg latha/Ncsmg an_uairsin/Rt
+[3]/Xsc bha/V-s an/Tdsf t-/Uo sìde/Ncsfn na_b'/Uc fhearr/Apc
+[1]/Xsc ò/I cha/Qn robh/V-s--d
+ach/Cc gun/Qa robh/V-s--d tòrr/Ncsmn a's/Sp na/Tdpm taighean/Ncpmd
+chan/Wp-in e/Pp3sm aon/Mc duine/Ncsmn fhios/Ncsmn agad/Pr2s
+a/Q-r bha/V-s
+[2]/Xsc ò/I ach/Cc cha/Qn robh/V-s--d aige/Pr3sm ach/Cc clann/Ncsfn clann/Ncsfn òg/Aq-sfn
+[1]/Xsc dè/Uq ?/Fg
+[2]/Xsc clann/Ncsfn òg/Aq-sfn
+a/Q-r bh'/V-s aig/Sp a’/Tdsm Chùpair/Ncsmd an_uairsin/Rt
+[4]/Xsc 's/Wp-i e/Pp3sm 
+ach/Cc chan/Wp-in e/Pp3sm e/Pp3sm fhèin/Px
+a/Q-r bha/V-s ga/Sap3sm dhèanamh/Nv
+[5]/Xsc nach/Wpdqn e/Pp3sm daoin'/Ncpmn eile/Aq-pmn
+a/Q-r bha/V-s ga/Sap3sm dhèanamh/Nv dhà/Pr3sm ge-tà/Rg daoin'/Ncpmn eile/Aq-pmn a'/Sa dèanamh/Nv an/Tdsmg treobhaidh/Ncsmg 's/Cc a'/Tdsfg bhuain/Ncsfg
+a/Q-r bh'/V-s ann/Pr3sm
+[1]/Xsc agus/Cc a'/Sa tòir/Nv dhachaigh/Rs na/Tdsfg mònadh/Ncsfg aca/Pr3p grunnd/Ncsmn bhliadhnaichean/Ncpfg a’/Tdsf mhòine/Ncsfn aca/Pr3p
+[4]/Xsc bhithinn/V-h1s fhèin/Px ga/Sap3sf tòir/Nv dhachaigh/Rs do/Sp dh’/Uo [Name]/Nn-md [Name]/Nn-mn [Name]/Nn-mn [Name]/Nn-mg uaireigin/Rt e/Pp3sm cuideachd/Rg
+bha/V-s e/Pp3sm ag/Sa innse/Nv dhomh/Pr1s
+[?]/Xx
+'s/Cc bha/V-s e/Pp3sm a'/Sa ràdh/Nv
+ars’/V-s esan/Pp3sm-e tha/V-p daoine/Ncpmn a-bhos/Rs ann_a_sheo/Rs ars’/V-s esan/Pp3sm-e
+agus/Cc bha/V-s mi/Pp1s a'/Sa ràdh/Nv 
+gur/Wpdia ann/Pr3sm aige/Pr3sm
+a/Q-r bha/V-s tòrr/Ncsmn mòine/Ncsfg
+tha/V-p feadhainn/Ncsfn a-bhos/Rs an_seo/Rs ma-thà/Rg ars’/V-s esan/Pp3sm-e
+agus/Cc 's/Wp-i ann/Pr3sm 
+a/Q-r tha/V-p iad/Pp3p a'/Sa toir/Nv bhuainn/Pr1p fàd/Ncsmg ars’/V-s esan/Pp3sm-e
+agus/Cc chì/V-f thu/Pp2s ri/Sp taobh/Ncsmd an/Tdsmg taigh'/Ncsmg aca/Pr3p ars’/V-s esan/Pp3sm-e air/Sp a’/Tdsm mheadhain-latha/Ncsmd 's/Cc air/Sp a'/Tdsm mheadhain-oidhche/Ncsmd
+tha/V-p an/Tdsm stòbh/Ncsmn aca/Pr3p geal/Ap ars’/V-s esan/Pp3sm-e
+[5]/Xsc och/I àidh/I a’/Tdsf mhòine/Ncsfd a/Q-r bha/V-s iad/Pp3p a'/Sa goid/Nv
+[4]/Xsc [Name]/Nn-mn [Name]/Nn-mg Bhàin/Aq-smg
+[2]/Xsc lìnigeadh/Ncsmn an/Tdsmg taighe/Ncsmg loisg/V-s àsan/Pp3p--e loisg/V-s iad/Pp3p a_h-uile/Dq sgath/Ncsmn de/Sp lìnigeadh/Ncsmd an/Tdsmg taighe/Ncsmg ma_dheireadh/Aq
+gun/Qa do/Q--s linn/Xsi e/Pp3sm 
+loisg/V-s e/Pp3sm lìnigeadh/Ncsmn an/Tdsmg taighe/Ncsmg mu_dheireadh/Aq taigh/Ncsmn [Name]/Nn-mg Bhàin/Aq-smg
+[4]/Xsc gun/Qa robh/V-s--d aona/Mc bhliadhna/Ncsfn 
+'s/Cc thàinig/V-s
+cha/Qn d’/Q--s fhuair/V-s [Name]/Nn-fn sgath/Ncsmn dheth/Pr3sm dhen/Spa-s mhòinidh/Ncsfd dhachaigh/Rs
+thàinig/V-s an/Tdsm t-/Uo uisge/Ncsmn mòr/Aq-smn sineach/Dd
+'s/Cc bha/V-s i/Pp3sf
+loisg/V-s iad/Pp3p a_h-uile/Dq fàd/Ncsmn
+[1]/Xsc muinntir/Ncsfn [Name]/Nn-mg Bhàin/Aq-smg
+ach/Cc uair/Rt chunna/V-s mi/Pp1s [Name]/Nn-fn
+fhuair/V-s i/Pp3sf trup/Ncsmn no/Cc dhà/Pn arbhar/Ncsmn is/Cc feur/Ncsmn againn/Pr1p fhèin/Px
+bha/V-s m'/Dp1s athair/Ncsmn thall/Rs aig/Sp [Name]/Nn-mn [Name]/Nn-mn [Name]/Nn-mg a’/Tdsmg [Placename]/Nt
+'s/Cc bha/V-s e/Pp3sm ag/Sa innse/Nv
+gun/Qa robh/V-s--d e/Pp3sm an/Sp dèidh/Nf a/Ug bhith/Nv aig/Sp [Name]/Nn-fd
+'s/Cc bha/V-s arbhar/Ncsmn ann/Pr3sm 
+och/I ars’/V-s esan/Pp3sm-e cha/Qn leig/V-f--d thu/Pp2s leas/Ncsmn eagal/Ncsmn sam_bith/Aq a/Ug bhith/Nv ort/Pr2s ars’/V-s esan/Pp3sm-e ro/Sp [Name]/Nn-fd
+pàighidh/V-f [Name]/Nn-fn a_h-uile/Dq sgath/Ncsmn
+a/Q-r th'/V-p aice/Pr3sf ri/Sa phàigheadh/Nv
+rinn/V-s i/Pp3sf sin/Pd cuideachd/Rg
+ach/Cc an_uairsin/Rt thug/V-s tha/V-p cuimhn'/Ncsfn a'm/Pr1s thug/V-s mise/Pp1s--e luchd/Ncsfn mhòr/Aq-sfn feòir/Ncsmg gu/Sp [Name]/Nn-md Bàn/Aq-smd
+agus/Cc och/I bha/V-s sinn/Pp1p a'/Sa smaoineachadh/Nv
+nach/Qn pàigheadh/V-h--d e/Pp3sm gu/Ua siorraidh/Rt
+cha/Qn do/Q--s phàigh/V-s e/Pp3sm air/Sp an/Tdsm latha/Ncsmd sin/Dd e/Pp3sm
+phàigh/V-s e/Pp3sm a-rithist/Rt e/Pp3sm
+[2]/Xsc cha/Qn bhiodh/V-h--d airgead/Ncsmn aca/Pr3p co-dhiubh/Rg am_muigh/Rs an_sin/Rs tha/V-p mi/Pp1s a'/Sa creidsinn/Nv ach/Cc fìor/Ar bheag/Ncsfn
+[4]/Xsc chuala/V-s mi/Pp1s [Name]/Nn-mn a'/Sa ràdh/Nv uaireigin/Rt
+gun/Qa robh/V-s--d uaireigin/Rt
+a/Q-r bhiodh/V-h a/Dp3sm athair/Ncsmn o/Sp chionn/Nf fada/Aq-smd a'/Sa rèic/Nv èisg/Ncsmg mun/Sp cuairt/Ncsfd fhios/Ncsmn agad/Pr2s air/Sp a’/Tdsm chladach/Ncsmd ann_a_shin/Rs
+'s/Cc bha/V-s e/Pp3sm a'/Sa ràdh/Nv
+gun/Qa robh/V-s--d màthair/Ncsfn [Name]/Nn-fg 
+gum/Qa faodadh/V-h--d i/Pp3sf
+na/Q-r thogradh/V-h i/Pp3sf thoir/Nv dhith/Pr3sf
+nach/Qn do/Q--s dh’/Uo fhàg/V-s i/Pp3sf dad/Ncsmn riamh/Rt gun/Sp phàigheadh/Ncsmd
+[1]/Xsc ò/I dh’/Uo fhaodadh/V-h i/Pp3sf a/Ug bhith/Nv onorach/Ap gu/Ua leòr/Rg mar/Sp sin/Pd
+ged/Cs a/Q-r bha/V-s rudan/Ncpmn eile/Aq-pmn [?]/Xx
+[5]/Xsc cò/Uq bh'/V-s innte/Pr3sf co-dhiubh/Rg màthair/Ncsfn [Name]/Nn-fg ?/Fg
+[2]/Xsc [Name]/Nn-mn Mòr/Aq-smn [Name]/Nn-fn [Name]/Nn-mg Mhòir/Aq-smg
+[1]/Xsc ò/I chan/Qn eil/V-p--d fhios/Ncsmn a'm/Pr1s
+cò/Uq bh'/V-s ann_am/Sp màthair/Ncsfd [Name]/Nn-fg
+[2]/Xsc [Name]/Nn-mn Mòr/Aq-smn an/Tdsm t-/Uo athair/Ncsmn dhith/Pr3sf
+nach/Wpdqn e/Pp3sm ?/Fg
+[1]/Xsc 's/Wp-i e/Pp3sm Mac/Up [?]/Xx 
+bhiodh/V-h e/Pp3sm fhèin/Px bhiodh/V-h e/Pp3sm càirdeil/Ap do/Sp [Name]/Nn-md [Name]/Nn-mg ann_a_shin/Rs
+[2]/Xsc bhitheadh/V-h
+cha/Qn chreid/V-f--d mi/Pp1s 
+nach/Qn robh/V-s--d
+[4]/Xsc cha/Qn chreid/V-f--d mi/Pp1s
+nach/Qn cuala/V-s--d mi/Pp1s [Name]/Nn-mn [Name]/Nn-mg a'/Sa ràdh/Nv
+gun/Qa robh/V-s--d e/Pp3sm am/Tdsm fear/Ncsmn sin/Dd dhiubh/Pr3p an/Tdsm t-/Uo athair/Ncsmn do/Sp bhean/Ncsfd [Name]/Nn-mg an/Tdsmg Tàilleir/Ncsmg na/Tdp [Name]/Nn sin/Dd gur/Wpdia e/Pp3sm an/Tdsm aon/Mc fhear/Ncsmn
+a/Q-r bha/V-s ceart/Ap a's/Sp an/Tdsm teaghlach/Ncsmd aca/Pr3p
+an/Wpdqa e/Pp3sm bràthair/Ncsmn do/Sp dh’/Uo [Name]/Nn-md Mòr/Aq-smd
+a/Q-r bh'/V-s ann/Pr3sm 
+an/Wpdqa e/Pp3sm 
+no/Cc bràthair/Ncsmn athar/Ncsmg
+a/Q-r bh'/V-s ann/Pr3sm ?/Fg
+[1]/Xsc chan/Qn eil/V-p--d fhios/Ncsmn a'm/Pr1s
+ach/Cc dè/Uq bha/V-s iad/Pp3p fhèin/Px 's/Cc
+[2]/Xsc 's/Wp-i e/Pp3sm an/Tds aon/Mc [Name]/Nn
+a/Q-r bhiodh/V-h ann/Pr3sm co-dhiubh/Rg
+[1]/Xsc bha/V-s iad/Pp3p fhèin/Px 's/Cc clann/Ncsfn [Name]/Nn-mg co-dhiubh/Rg [Name]/Nn-mn [Name]/Nn-mg bha/V-s iad/Pp3p gu/Ua math/Rg comhfhurtail/Ap
+[2]/Xsc 's/Wp-i e/Pp3sm an/Tds aon/Mc [Name]/Nn
+a/Q-r bhiodh/V-h ann/Pr3sm co-dhiubh/Rg
+[4]/Xsc 's/Wp-i e/Pp3sm 
+ach/Cc tha/V-p mi/Pp1s a'/Sa ràdh/Nv 
+gur/Wpdia e/Pp3sm siud/Pd am/Tdsm bràthair/Ncsmn a/Q-r b'/Ws fhearr/Apc
+a/Q-r bha/V-s 'san/Spa-s teaghlach/Ncsmd
+[2]/Xsc tha/V-p mi/Pp1s cinnteach/Ap
+gur/Wpdia e/Pp3sm Sgitheanaich/Ncpmn
+a/Q-r bhiodh/V-h annta/Pr3p
+[1]/Xsc ach/Cc faodaidh/V-f e/Pp3sm tighinn/Nv a-mach/Rg fhathast/Rt
+[4]/Xsc dè/Uq ?/Fg
+[1]/Xsc faodaidh/V-f e/Pp3sm tighinn/Nv a-mach/Rg fhathast/Rt ann_an/Sp
+[2]/Xsc dè/Uq 'n/Tdsm rud/Ncsmn ?/Fg
+[5]/Xsc an/Sp nàdar/Ncsmn linn/Ncsfg eile/Aq-sfg
+[1]/Xsc linn/Ncsfn eile/Aq-sfn
+[5]/Xsc bradachas/Ncsmn eile/Aq-smn
+[2]/Xsc a/Sp -/Fb rèir/Nf cò/Uq an/Tdsm taobh/Ncsmn
+às/Sp an/Qq tug/V-s--d iad/Pp3p e/Pp3sm
+[1]/Xsc dè/Uq ?/Fg
+[2]/Xsc a/Sp rèir/Nf cò/Uq an/Tdsm taobh/Ncsmn
+às/Sp an/Qq tug/V-s--d iad/Pp3p e/Pp3sm an/Tdsm nàdar/Ncsmn sin/Dd
+[1]/Xsc ach/Cc bha/V-s iad/Pp3p uileag/Rg a-muigh/Rs an_siudach/Rs muinntir/Ncsfn [Placename]/Nt

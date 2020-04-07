@@ -1,0 +1,106 @@
+Ghearain/V-s Oifis/Ncsfn nàiseanta/Aq-sfn an/Tdsmg luchd/Ncsmg sgrùdaidh/Ncsmg
+nach/Qn eil/V-p--d ceangal/Ncsmn dlùth/Aq-smn gu/Ua leòr/Rg eadar/Sp an/Tdsf dòigh/Ncsfn 
+sam/Spv bheil/V-p--d Iomairt/Ncsfn na/Tdsfg Gaidhealtachd/Ncsfg a'/Sa cothromachadh/Nv an/Dp3p cuid/Ncsfn amasan/Ncpmn ro-innleachd/Ncsfg ri/Sp
+na/Q-r tha/V-p iad/Pp3p a'/Sa toirt/Nv a-mach/Rg air/Sp a’/Tdsm cheann/Ncsmd thall/Aq ./Fe
+Ann_an/Sp aithisg/Ncsfd a/Q-r tha/V-p ga/Sap3sm fhoillseachadh/Nv an_diugh/Rt
+tha/V-p Oifis/Ncsfn nàiseanta/Aq-sfn an/Tdsmg luchd/Ncsmg sgrùdaidh/Ncsmg ag/Sa ràdh/Nv
+gun/Qa soirbhicheadh/V-h--d nas/Uc fhearr/Apc le/Sp HIE/Y
+nan/Q-s atharraicheadh/V-h--d iad/Pp3p an/Dp3p dòighean/Ncpfn obrach/Ncsfg
+Chuir/V-s Ball/Ncsmn Pàrlamaid/Ncsfn Mhoireibh/Nt Mairead/Nn-fn Ewing/Nn fàilte/Ncsfn air/Sp an/Tdsf naidheachd/Ncsfd
+gu/Qa bheil/V-p--d an/Tdsm Riaghaltas/Ncsmn a'/Sa dol/Nv a/Ug chuideachadh/Nv comhairle/Ncsfn Mhoireibh/Nt ./Fe 
+Thèid/V-f Scheme/Xfe Bellwin/Nn a/Ug chur/Nv an/Sp sàs/Ncsmd ,/Fi 
+agus/Cc gheibh/V-f a’/Tdsf chomhairle/Ncsfn ochd/Mc fichead/Mc mìle/Mc de/Sp na/Tdpf cosgaisean/Ncpfd bhon/Spa-s Riaghaltas/Ncsmd gu/Ua cinnteach/Rg agus/Cc ceithir/Mc fichead/Mc 's/Cc a/Uo còig/Mc às/Sp a’/Tdsm cheud/Ncsmd de/Sp chosgaisean/Ncpfd eile/Aq-pfg
+a/Q-r thig/V-f orra/Pr3p os/Sp cionn/Nf sin/Pd ./Fe
+Thuirt/V-s a’/Tdsf bhean/Ncsfn phòsda/Av Ewing/Nn
+gu/Qa robh/V-s--d i/Pp3sf air/Sp leth/Ncsmd riaraichte/Av
+gu/Qa robh/V-s--d an/Tdsm Riaghaltas/Ncsmn air/Sa gluasad/Nv gu/Ua sgiobalta/Rg
+Coinnichidh/V-f Ball/Ncsmn Pàrlamaid/Ncsfn Rois/Nt an/Tdsmg Eilein_Sgiathanaich/Nt ri/Sp Bòrd/Ncsmd Slàinte/Ncsfg na/Tdsfg Gaidhealtachd/Ncsfg an-diugh/Rt a/Ug bhruidhinn/Nv mu/Sp dheidhinn/Nf nan/Tdpfg cìsean/Ncpfg 
+a/Q-r tha/V-p am/Tdsm Bòrd/Ncsmn dol/Nv a/Ug chur/Nv an/Sp sàs/Ncsmd am/Sp pàirc/Ncsfd chàraichean/Ncpmg ospadal/Ncsmg an/Sp Raigmhoir/Nt ./Fe 
+Thuirt/V-s Mghr/Y Ceannadach/Nn
+gu/Qa robh/V-s--d e/Pp3sm draghail/Ap
+gun/Qa fheumadh/V-h--d daoine/Ncpmn
+a/Q-r bha/V-s '/Sa tadhal/Nv air/Sp an/Tdsm ospadal/Ncsmd leth-cheud/Mc sgillinn/Ncsfn a/Ug phàigheadh/Nv gach/Dq turas/Ncsmn
+agus/Cc gu/Qa robh/V-s--d e/Pp3sm an/Tdsm aon/Mc rud/Ncsmn ri/Sp bhith/Nv a'/Sa buileachadh/Nv cìs/Ncsfg air/Sp daoine/Ncpmd son/Nf seirbhis/Ncsfn na/Tdsfg slàinte/Ncsfg ./Fe
+Thèid/V-f plana/Ncsmn ùr/Aq-smn a/Ug chur/Nv ri/Sp luchd/Ncsmd obrach/Ncsfg British/Xfe Airways/Xfe
+a/Q-r tha/V-p ag/Sa obair/Nv aig/Sp puirt/Ncpmd adhair/Ncsmg ,/Fi 
+feuch/Vm-2s an/Qq tèid/V-f--d cunnart/Ncsmn stailc/Ncsfg a/Ug chur/Nv an/Tdsm dàrna/Mo taobh/Ncsmn ./Fe 
+Tha/V-p aonadh/Ncsmn an/Tdsmg luchd/Ncsmg obrach/Ncsfg dol/Nv a/Ug dh’/Uo iarraidh/Nv beachd/Ncsmn an/Tdsmg luchd/Ncsmg obrach/Ncsfg air/Sp a’/Tdsm phlana/Ncsmd
+a/Q-r chaidh/V-s dhealbh/Nv leis/Sp a'/Sa bhuidhinn/Ncsfd rèiteachaidh/Ncsmg ACAS/Xa ,/Fi plana/Ncsmn
+a/Q-r tha/V-p a'/Sa gealltainn/Nv
+nach/Qn caill/V-f--d duine/Ncsmn an/Dp3p cuid/Ncsfn obrach/Ncsfg son/Nf trì/Mc bliadhna/Ncsfg an/Sp deidh/Nf seirbhis/Ncsfn bhidhe/Ncsmg BA/Y a/Ug reic/Nv ./Fe 
+Dh’/Uo fhaodadh/V-h 
+gum/Qa bi/V-f--d lagh/Ncsmn chòraichean/Ncpfg chinn/Ncsmg daonna/Aq-smg fa_leth/Aq aig/Sp Breatainn/Nt dhan/Spa-s dùthaich/Ncsfd seo/Dd a-mhàin/Rg ./Fe 
+Tha/V-p Ard/Ar Mhorair/Ncsmn an/Tdsmg Lagh/Ncsmg air/Sa leigeil/Nv fhaicinn/Nv
+gu/Qa bheil/V-p--d planaichean/Ncpmn aig/Sp an/Tdsm Riaghaltas/Ncsmd lagh/Ncsmn chòraiche/Aq-smn na/Tdsfg h-/Uo Eòrpa/Nt fhilleadh/Nv a-staigh/Rs a/Sp lagh/Ncsmd Bhreatainn/Nt ,/Fi son/Nf cùisean/Ncpfn a/Ug dhèanamh/Nv nas/Uc fhasa/Apc do/Sp dhaoine/Ncpmd iad/Pp3p fhèin/Px a/Ug dhion/Nv bho/Sp chumhachd/Ncsmd na/Tdsfg Stàite/Ncsfg ./Fe 
+Innsidh/V-f an/Tdsm riaghaltas/Ncsmn an-diugh/Rt fhathast/Rt
+dè/Uq tha/V-p iad/Pp3p am/Sp beachd/Ncsmd a/Ug dhèanamh/Nv mu/Sp chìsean/Ncpfd drochaid/Ncsfn an/Tdsmg Eilein_Sgitheanaich/Nt ./Fe 
+Tha/V-p a_h-uile/Dq dùil/Ncsfn
+gun/Qa tèid/V-f--d a’/Tdsf phrìs/Ncsfn son/Nf leabhair/Ncsmg thiogaidean/Ncpfg son/Nf na/Tdsfg drochaid/Ncsfg a/Ug ghearradh/Nv gu/Sp not/Ncsmd is/Cc còig/Mc sgillinn/Ncsfn fichead/Mc -/Fb sìos/Rs leth/Ar cheud/Mc sa/Spa-s cheud/Ncsmd ./Fe
+Tha/V-p ceannard/Ncsmn na/Tdpmg Libearalaich/Ncpmg Deamocrataich/Aq-pmg air/Sa slaic/Ncsfn a/Ug thoirt/Nv air/Sp an/Tdsf fheadhainn/Ncsfd
+a/Q-r tha/V-p ag/Sa ràdh/Nv
+gum/Qa bitheadh/V-h--d an/Tdsm aon/Mc seòrsa/Ncsmn briseadh/Ncsmg eadar/Sp bhuidheannan/Ncpmn ann_am/Sp Pàrlamaid/Ncsfd ann_an/Sp Dùn_Èideann/Nt
+'s/Cc a/Q-r tha/V-p ri/Sa fhaicinn/Nv 's/Sp na/Tdpm h-/Uo ùghdarrasan/Ncpmd ionadail/Aq-pmd
+far/Cs am/Qq bheil/V-p--d làmh/Ncsfn an/Tdsmg uachdar/Ncsmg aig/Sp na/Tdpm Làbaraich/Ncpmd ./Fe 
+B'/Ws e/Pp3sm an/Tdsm siostam/Ncsmn bhòtaidh/Ncsmg thuirt/V-s Paddy/Nn-mn Ashdown/Nn ,/Fi 
+a/Q-r bha/V-s ri/Sa choireachadh/Nv
+airson/Nf 's/Cc gu/Qa robh/V-s--d earbsa/Ncsfn a’/Tdsmg mhòr-shluaigh/Ncsmg ga/Sap3sm mhilleadh/Nv ./Fe 
+Cha/Qn b'/Ws urrainn/Uf aona/Mc phàrtaidh/Ncsmn ,/Fi thuirt/V-s e/Pp3sm làmh/Ncsfn an/Tdsmg uachdar/Ncsmg fhaighinn/Nv ann/Sp a’/Tdsf lethid/Ncsfd de/Sp phàrlamaid/Ncsfd 
+ri_linn/Cs 's/Cc gur/Wpdia ann/Pr3sm le/Sp siostam/Ncsmd PR/Y
+a/Q-r bhitheadh/V-h e/Pp3sm air/Sa a/Dp3sm thaghadh/Nv ./Fe
+Tha/V-p rannsachadh/Ncsmn a'/Sa tòiseachadh/Nv son/Nf faighinn/Nv a-mach/Rg
+carson/Uq a/Q-r b'/Ws fheudar/Uf Heileacoptar/Ncsmn Maor/Ncsmn Chladaich/Ncsmg Steòrnabhaigh/Nt a/Ug chur/Nv sìos/Rs ann_an/Sp èiginn/Ncsfd faisg/Ap air/Sp Stac_Pollaidh/Nt ann_an/Sp Cataibh/Nt an-dè/Rt ./Fe 
+Nochd/V-s duilgheadasan/Ncpmn air/Sp an/Tds heileacoptar/Ncsmd ,/Fi 
+'s/Cc nam/Tdsm maor/Ncsmn chladaich/Ncsmg a'/Sa dèanadh/Nv cobhair/Ncsmg air/Sp dithis/Ncsfd shreapadair/Ncsmg 
+'s/Cc iad/Pp3p air/Sa an/Dp3p goirteachadh/Nv ./Fe 
+B'/Ws fheudar/Uf heileacoptar/Ncsmn feachd/Ncsfn an/Tdsmg adhair/Ncsmg a/Ug chur/Nv a/Ug dh’/Uo iarraidh/Nv na/Tdpmg sreapadairean/Ncpmg mu_dheireadh/Rt 
+ach/Cc cha/Qn robh/V-s--d iadsan/Pp3p--e neo/Cc sgioba/Ncsmn heileacoptair/Ncsmg nam/Tdpmg maor/Ncpmg chladaich/Ncsmg air/Sa an/Dp3p goirteachadh/Nv ./Fe 
+Tha/V-p e/Pp3sm air/Sa a/Dp3sm thuigsinn/Nv 
+gur/Wpdia docha/Uf
+gun/Qa do/Q--s shuath/V-s a/Tds Heileacoptar/Ncsmn ann_a/Sp cliathaich/Ncsfd na/Tdsfg beinne/Ncsfg ./Fe
+Thèid/V-f sguir/Nv a/Sp reic/Nv còig/Mc seòrsaichean/Ncpmn de/Sp 'n/Tdsf deoch/Ncsfd
+ris/Sp an/Qq cainnte/V-h0-d alcopops/Xfe leis/Sp an/Tdsf fheadhainn/Ncsfd
+a/Q-r tha/V-p gan/Sap3p dèanamh/Nv an/Sp dèidh/Nf càineadh/Ncsmg
+gu/Qa robh/V-s--d iad/Pp3p tarraingeach/Ap do/Sp chloinn/Ncsfd ./Fe 
+Tha/V-p ochd/Mc seòrsaichean/Ncpmn eile/Aq-smn a'/Sa faighinn/Nv ainm/Ncsmg agus/Cc còmhdach/Ncsmg as/Wpr ùr/Ap ./Fe 
+Tha/V-p a’/Tdsf bhuidheann/Ncsfn
+a/Q-r chuireadh/V-h0 air/Sp dòigh/Ncsfd leis/Sp a’/Tdsm ghnìomhachas/Ncsmd fhèin/Px airson/Nf a/Ug bhith/Nv cumail/Nv sùil/Ncsfg air/Sp cùisean/Ncpfd a'/Sa ràdh/Nv
+gum/Qa bheil/V-p--d seo/Pd a'/Sa dearbhadh/Nv
+gun/Wpdia urrainn/Uf dha/Sp 'n/Tdsm ghnìomhachas/Ncsmd a/Ug bhith/Nv ga/Sap3sm smachdachadh/Nv fhèin/Px ./Fe
+Thèid/V-f iarraidh/Nv air/Sp Oifis/Ncsfd na/Tdsfg h-/Uo Alba/Nt sùil/Ncsfn a/Ug thoirt/Nv air/Sp 
+mar/Cs a/Q-r tha/V-p aiseagan/Ncpmn Chaledonian_Mac_a'_Bhruthain/Nn a'/Sa ruith/Nv an/Sp dèidh/Nf coinneamh/Ncsfg de/Sp chomataidh/Ncsfd comhairleachaidh/Ncsmg na/Tdpfg seirbhisean/Ncpfg mara/Ncsfg ann_am/Sp Barraigh/Nt a-raoir/Rt ./Fe 
+Tha/V-p dragh/Ncsmn air/Sp comhairlean/Ncpfd coimhearsnach/Aq-pfd an/Tdsmg eilein/Ncsmg mu/Sp phlana/Ncsmd 
+a/Q-r dh’/Uo fhàgadh/V-h
+gun/Qa toireadh/V-h--d an/Tdsf aiseag/Ncsfn ùr/Aq-sfn
+a/Q-r thèid/V-f an/Sp àite/Ncsmd a/Tds-g Lord/Xfe of/Xfe the/Xfe Isles/Xfe as/Spa-s t-/Uo samhradh/Ncsmd a/Uo dhà/Mc uidhir/Ncsfd de/Sp dh’/Uo ùine/Ncsfd a'/Sa siubhal/Nv eadar/Sp na/Tdpm h-/Uo eileanan/Ncpmn 's/Cc an/Tdsf Oban/Nt cuid/Ncsfn de/Sp dh’/Uo oidhcheannan/Ncpfd ./Fe 
+Tha/V-p seo/Pd ri/Sp linn/Ncsfd còrdadh/Ncsmg mu/Sp na/Tdpf h-/Uo uairean/Ncpfd de/Sp dh’/Uo fhois/Ncsfd
+a/Q-r dh’/Uo fheumas/V-f--r criubha/Ncsmn fhaighinn/Nv ./Fe
+Tha/V-p e/Pp3sm uamhasach/Ap a/Sp -/Fb rèir/Nf am/Tdsmg Ball-Pàrlamaid/Ncsmg Teàrlach/Nn-mn Ceannadach/Nn 
+gu/Qa faodadh/V-h--d a’/Tdsf chompanaidh/Ncsfn 
+a/Q-r tha/V-p ruith/Nv drochaid/Ncsfn an/Tdsmg Eilein_Sgiathanaich/Nt maill/Ncsfn a/Ug chur/Nv air/Sp planaichean/Ncpmd a’/Tdsmg riaghaltais/Ncsmg airson/Nf na/Tdpf cìsean/Ncpfn a/Ug lùghdachadh/Nv ./Fe 
+Tha/V-p e/Pp3sm ag/Sa ràdh/Nv
+gun/Qa do/Q--s rinn/V-s ministeir/Ncsmn a'/Tdsfg chòmhdhail/Ncsfg ann_an/Sp Oifis/Ncsfd na/Tdsfg h-/Uo Alba/Nt Calum/Nn-mn Sisileach/Nn soilleir/Ap
+gum/Qa bheil/V-p--d a'/Tdsm chùmhnant/Ncsmn 
+a/Q-r bha/V-s eadar/Sp a’/Tdsf chompanaidh/Ncsfn 's/Cc an/Tdsm t-/Uo seann/Ar riaghaltas/Ncsmn a'/Sa fàgail/Nv 
+gum/Qa bheil/V-p--d cothrom/Ncsmn aig/Sp a’/Tdsf chompanaidh/Ncsfd an/Tdsm còrdadh/Ncsmn ùr/Aq-smn a/Ug dheasbad/Nv
+mas/Cs fhaodar/V-f0 a/Ug dhol/Nv air/Sp adhart/Ncsmd leis/Pr3sm ./Fe 
+Tha/V-p sin/Pd a/Sp -/Fb rèir/Nf Mhgr/Y Ceannadach/Nn a'/Sa dol/Nv an/Sp aghaidh/Ncsfd deamocrasaidh/Ncsmg ./Fe
+Tha/V-p planaichean/Ncpmn a’/Tdsmg riaghaltas/Ncsmg airson/Nf fèin/Ar riaghladh/Ncsmg ann_an/Sp Alba/Nt ga/Sap3sm chur/Nv fo/Sp 'n/Tdsf phrosbaig/Ncsfd an-diugh/Rt ann_an/Sp deasbad/Ncsmd ann_a'/Sp seòmar/Ncsmd Comhairle/Ncsfn na/Tdsfg Gaidhealtachd/Ncsfg
+a/Q-r chuireadh/V-s0 air/Sp doigh/Ncsfd a/Sp dh’/Uo aona/Mc ghnothaich/Ncsmd ./Fe 
+Tha/V-p fear/Ncsmn gairm/Ncsfg na/Tdsfg comhairle/Ncsfg Peadar/Nn-mn Peacock/Nn ag/Sa obair/Nv fo/Sp bhratach/Ncsfd na/Tdsfg h-/Uo iomairt/Ncsfg Alba_air_Adhart/Nn anns/Sp a’/Tdsf sgìre/Ncsfd ./Fe 
+Tha/V-p esan/Pp3sm-e a'/Sa ràdh/Nv
+gum/Qa bheil/V-p--d e/Pp3sm an/Sp dòchas/Ncsmd
+gun/Qa tarraing/V-f--d deasbad/Ncsmn an/Tdsmg là-an-diugh/Ncsmg aire/Ncsfn dhaoine/Ncpmg chun/Sp a'/Tds-g referendum/Xfe ./Fe
+Agus/Cc tha/V-p am/Tdsm fear/Ncsmn iomairt/Ncsfg Robbie/Nn-mn the/Xfe Pict/Xfe a'/Sa ràdh/Nv
+gum/Qa feum/V-f--d a’/Tdsm riaghaltas/Ncsmn cuideachd/Rg cead/Ncsmn fhaighinn/Nv bho/Sp 'n/Tdsf bhuidheann/Ncsmd bu/Ws mhotha/Apc
+a/Q-r bha/V-s lùib/Nf cùisean/Ncpfg ionmhais/Ncsmg na/Tdsfg drochaid/Ncsfg Banca/Ncsmn Amearagaidh/Nt ./Fe 
+Agus/Cc gur/Qa fhaodadh/V-h--d 
+nach/Qn fhaigheadh/V-h--d iad/Pp3p taic/Ncsfn bhuapa/Pr3p ./Fe
+Tha/V-p e/Pp3sm cosg/Nv barrachd/Ncsfg a/Ug bhith/Nv siubhal/Nv air/Sp trèanaichean/Ncpmd ann_am/Sp Breatainn/Nt 
+na/Um tha/V-p e/Pp3sm an/Sp àite/Ncsmd sam_bith/Aq eile/Aq-smd 'san/Spa-s t-/Uo saoghal/Ncsmd a/Sp -/Fb rèir/Nf rannsachadh/Ncsmg
+a/Q-r rinneadh/V-s0 le/Sp Banca/Ncsmd an/Tdsmg Aonaidh/Ncsmg san/Spa-s Eilbheis/Nt ./Fe 
+Chosgadh/V-h tiocaid/Ncsfn àbhaisteach/Aq-sfn ann_am/Sp Breatainn/Nt còig/Mc nota/Ncsmn deug/Mc thar/Sp fhichead/Mc a/Ug dhol/Nv air/Sp turus/Ncsmd de/Sp shia/Mc fichead/Mc mìle/Ncsfd ann_am/Sp Breatainn/Nt -/Fb
+chosgadh/V-h an/Tdsm dearbh/Ar thurus/Ncsmn ann_an/Sp dùthchannan/Ncpfd eile/Aq-pfd gu/Ua bitheanta/Rg deich/Mc nota/Ncsmn 's/Cc leth-cheud/Mc sgillinn/Ncsfn ./Fe 
+Bha/V-s luchd/Ncsmn siubhail/Ncsmg a'/Sa fulang/Nv thuirt/V-s ministeir/Ncsmn a'/Tdsfg chòmhdhail/Ncsfg Glenda/Nn-fn Jackson/Nn ri/Sp linn/Ncsfd cho/Rg beag/Ap airgead/Ncsmd
+'s/Cc a/Q-r chaidh/V-s a/Ug chur/Nv a-steach/Rs dhan/Spa-s rèile/Ncsfd fo/Sp 'n/Tdsm riaghaltas/Ncsmd Tòraidheachd/Ncsfg -/Fb
+rud/Ncsmn a/Q-r thuirt/V-s i/Pp3sf 
+leis/Sp a/Qq robh/V-s--d iadsan/Pp3p--e a'/Sa dèiligeadh/Nv a-nise/Rt ./Fe
